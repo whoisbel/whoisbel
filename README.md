@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hello, World! 👋
 
-<!--
-**whoisbel/whoisbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Michael John Angelo Belciña, a 3rd-year Computer Science student at the University of Mindanao. I'm passionate about backend development, data analysis, and machine learning. I'm always eager to learn and grow in these areas.
 
-Here are some ideas to get you started:
+## 🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Studying Computer Science at the University of Mindanao
+
+## 💻 Technical Skills
+
+- Backend Development (Node.js, Python)
+- Data Analysis (Pandas, NumPy)
+
+## 🛠 Tools & Technologies
+
+- Git
+- FastAPI
+- Next.js
+- Cypress
+- Backtrader
+- Matplotlib/Seaborn
+
+## 📈 Projects
+
+- [M&S Inventory Management System](https://github.com/whoisbel/M-and-S-Inventory-Management): An inventory management system for M&S Company.
+
+- [Personal Portfolio Website](https://whoisbel.github.io): A website showcasing my skills, projects, and achievements.
+
+## 📫 How to reach me
+
+- Email: mjabelcina@gmail.com
+- LinkedIn: [Michael John Angelo Belciña](https://www.linkedin.com/in/mja-belcina/)
+
+## ⚡ Fun fact
+
+- I love learning new technologies and exploring their applications.
+- Currently working on a machine learning project to predict stock market trends.
+
+Thanks for stopping by!
