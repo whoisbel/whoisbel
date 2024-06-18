@@ -17,7 +17,6 @@ I'm Michael John Angelo Belciña, a 3rd-year Computer Science student at the Uni
 - FastAPI
 - Next.js
 - Cypress
-- Backtrader
 - Matplotlib/Seaborn
 
 ## 📈 Projects
@@ -30,10 +29,5 @@ I'm Michael John Angelo Belciña, a 3rd-year Computer Science student at the Uni
 
 - Email: mjabelcina@gmail.com
 - LinkedIn: [Michael John Angelo Belciña](https://www.linkedin.com/in/mja-belcina/)
-
-## ⚡ Fun fact
-
-- I love learning new technologies and exploring their applications.
-- Currently working on a machine learning project to predict stock market trends.
 
 Thanks for stopping by!
